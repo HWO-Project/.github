@@ -28,4 +28,4 @@ For questions, contributions, or access requests to private repositories, please
 
 ---
 
-*Building the tools to discover life beyond Earth* 🪐
+*More information on HWO here: https://habitableworldsobservatory.org*
